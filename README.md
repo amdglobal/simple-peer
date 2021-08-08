@@ -1,7 +1,7 @@
-# simple-peer [![travis][travis-image]][travis-url] [![coveralls][coveralls-image]][coveralls-url] [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url] [![javascript style guide][standard-image]][standard-url] [![javascript style guide][sauce-image]][sauce-url]
+# simple-peer [![ci][ci-image]][ci-url] [![coveralls][coveralls-image]][coveralls-url] [![npm][npm-image]][npm-url] [![downloads][downloads-image]][downloads-url] [![javascript style guide][standard-image]][standard-url] [![javascript style guide][sauce-image]][sauce-url]
 
-[travis-image]: https://img.shields.io/travis/feross/simple-peer/master.svg
-[travis-url]: https://travis-ci.org/feross/simple-peer
+[ci-image]: https://img.shields.io/github/workflow/status/feross/simple-peer/ci/master
+[ci-url]: https://github.com/feross/simple-peer/actions
 [coveralls-image]: https://coveralls.io/repos/github/feross/simple-peer/badge.svg?branch=master
 [coveralls-url]: https://coveralls.io/github/feross/simple-peer?branch=master
 [npm-image]: https://img.shields.io/npm/v/simple-peer.svg
@@ -619,7 +619,7 @@ constructor. See the API docs above.
 - [Netsix](https://mmorainville.github.io/netsix-gh-pages/) - Send videos to your friends using WebRTC so that they can watch them right away.
 - [Stealthy](https://www.stealthy.im) - Stealthy is a decentralized, end-to-end encrypted, p2p chat application.
 - [oorja.io](https://github.com/akshayKMR/oorja) - Effortless video-voice chat with realtime collaborative features. Extensible using react components 🙌
-- [TalktoMe](https://talktome.space) - Skype alternative for audio/video conferencing based on WebRTC, but without the loss of packets.
+- [TalktoMe](https://talktome.universal-apps.xyz) - Skype alternative for audio/video conferencing based on WebRTC, but without the loss of packets.
 - [CDNBye](https://github.com/cdnbye/hlsjs-p2p-engine) - CDNBye implements WebRTC datachannel to scale live/vod video streaming by peer-to-peer network using bittorrent-like protocol
 - [Detox](https://github.com/Detox) - Overlay network for distributed anonymous P2P communications entirely in the browser
 - [Metastream](https://github.com/samuelmaddock/metastream) - Watch streaming media with friends.
@@ -647,6 +647,9 @@ constructor. See the API docs above.
 - [simple-peer-files](https://github.com/subins2000/simple-peer-files) - A simple library to easily transfer files over WebRTC. Has a feature to resume file transfer after uploader interruption.
 - [WebDrop.Space](https://WebDrop.Space) - Share files and messages across devices. Cross-platform, no installation alternative to AirDrop, Xender. [Source Code](https://github.com/subins2000/WebDrop)
 - [Speakrandom](https://speakrandom.com) - Voice-chat social network using simple-peer to create audio conferences!
+- [Deskreen](https://deskreen.com) - A desktop app that helps you to turn any device into a secondary screen for your computer. It uses simple-peer for sharing entire computer screen to any device with a web browser.
+
+
 
 - *Your app here! - send a PR!*
 
